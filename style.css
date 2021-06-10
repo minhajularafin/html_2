@@ -1,0 +1,13 @@
+body{background-color: pink;}
+.boolean
+{
+	box-sizing: border-box;
+	float:right;
+background-color: blue;
+
+  }
+.semantics{
+	box-sizing: border-box;
+	float: right;
+	background-color: blue;
+}
